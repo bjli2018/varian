@@ -3,7 +3,7 @@ PlaceImmobilizationAndCTOrder:
   content: 制模定位申请
   completedContent: 制模定位已申请
   workspace:
-    workspaceType: DYNAMIC_FORM1112223333
+    workspaceType: DYNAMIC_FORM
     dynamicFormTemplate:
       - templateId: ImmoAndCTOrder
     eclipseModuleId:
