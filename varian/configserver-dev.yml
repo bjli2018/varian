@@ -1,3 +1,9 @@
 person:
   name: lisi
   age: 18
+  lists:
+      - lisi
+      - zhaoliu
+  dog:
+    name: 小狗
+    age: 12
