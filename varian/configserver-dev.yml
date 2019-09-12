@@ -4,6 +4,7 @@ person:
   lists:
       - lisi
       - zhaoliu
+      - qqqq
   dog:
     name: 小狗
     age: 12
